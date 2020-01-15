@@ -1,0 +1,25 @@
+{
+  "name": "img-ascii-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art-ansi": "^1.3.3",
+    "ascii-art-image": "^1.2.2",
+    "canvas": "^2.6.1",
+    "loader-utils": "^1.2.3",
+    "strip-ansi": "^6.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3"
+  }
+}
