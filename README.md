@@ -5,11 +5,11 @@ A webpack loader that load image as ascii text.
 
 Generate this
 
-![demo](./doc/demo.png)
+![demo](https://github.com/zcfan/image-ascii-loader/raw/master/doc/demo.png)
 
 from
 
-![demo](./demo/demo.jpg)
+![demo](https://github.com/zcfan/image-ascii-loader/raw/master/demo/demo.jpg)
 
 feel free to clone and play with demo project.
 
@@ -57,6 +57,6 @@ check [ascii-art-image](https://www.npmjs.com/package/ascii-art-image) for more 
 
 ## More
 
-![I like this one](./doc/demo1.png)
+![I like this one](https://github.com/zcfan/image-ascii-loader/raw/master/doc/demo1.png)
 
 Image source: readme of https://github.com/khrome/ascii-art project

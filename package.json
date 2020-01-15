@@ -1,6 +1,6 @@
 {
   "name": "image-ascii-loader",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "A webpack loader that load image as ascii text.",
   "main": "lib/index.js",
   "scripts": {
