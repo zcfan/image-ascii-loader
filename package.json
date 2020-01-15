@@ -1,15 +1,15 @@
 {
-  "name": "img-ascii-loader",
-  "version": "1.0.0",
-  "description": "",
+  "name": "image-ascii-loader",
+  "version": "1.0.3",
+  "description": "A webpack loader that load image as ascii text.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "babel src -d lib",
+    "build": "babel index.js -d lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["webpack", "loader", "webpack-loader", "ascii", "image", "jpeg"],
+  "author": "gagazcfan@icloud.com",
+  "license": "MIT",
   "dependencies": {
     "ascii-art-ansi": "^1.3.3",
     "ascii-art-image": "^1.2.2",
