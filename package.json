@@ -7,8 +7,10 @@
     "build": "babel index.js -d lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["webpack", "loader", "webpack-loader", "ascii", "image", "jpeg"],
+  "keywords": ["webpack", "loader", "webpack-loader", "ascii", "image"],
   "author": "gagazcfan@icloud.com",
+  "homepage": "https://github.com/zcfan/image-ascii-loader",
+  "bugs": "https://github.com/zcfan/image-ascii-loader/issues",
   "license": "MIT",
   "dependencies": {
     "ascii-art-ansi": "^1.3.3",
